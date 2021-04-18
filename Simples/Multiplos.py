@@ -1,7 +1,7 @@
 def main():
 
-    x = input().split()
-    a, b = x
+    a = int(input())
+    b = int(input())
 
     if a % 2 == 0 and b % 2 == 0:
 
