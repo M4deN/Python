@@ -14,3 +14,5 @@ ys =yt.streams.get_highest_resolution()
 print("Baixando....")
 ys.download(path)
 print("Download Completo!")
+
+#pip install pytube#
