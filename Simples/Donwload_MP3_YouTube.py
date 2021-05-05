@@ -22,3 +22,6 @@ for file in os.listdir(path):
         os.remove(mp4_path)
 
 print("Concluido Com Sucesso!!")
+
+#pip install pytube#
+#pip install moviepy#
