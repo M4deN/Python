@@ -1,4 +1,3 @@
 # Python
 
-#### Repositório Criado para a disciplina de estrutura de dados da UTFPR visando aprendizado de estrutura de dados com funções pré estabelecidas da linguagem no auxilio da aprendizagem, o intuito desse repositório após a disciplina é o da continuidade de aprendizado da linguagem, bem como suas bibliotecas.
- 
+#### Repository Created for the UTFPR data structure discipline aiming at learning the data structure with pre-established language functions to aid learning, the purpose of this repository after the discipline is to continue the language learning, as well as its libraries.
