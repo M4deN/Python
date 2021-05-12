@@ -12,7 +12,6 @@ def secure_pdf(file, password):
         f.close()
     print(f"secure_{file} Created...")
 
-
 if __name__ == "__main__":
      file = sys.argv[certificado2.pdf]
      password = sys.argv[2]
