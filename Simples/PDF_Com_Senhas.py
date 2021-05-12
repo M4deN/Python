@@ -16,3 +16,5 @@ if __name__ == "__main__":
      file = sys.argv[certificado2.pdf]
      password = sys.argv[2]
      secure_pdf(file, password)
+
+#install reportlab
